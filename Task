@@ -1,0 +1,18 @@
+#Task: Before Backend Developer Interview
+
+##This is a task designed to understand the skillset of the developer joining StimVeda Neurosciences. 
+
+The following skillsets are being evaluated - 
+1. Practicality of the architecture 
+2. Code Readability (Modularity, Documentation)
+3. API Design of components/routes
+4. Following best practices in web secuirty like IDOR, Input Validation, etc.
+5. Speed of execution
+
+
+##Task 
+
+Design an architecture for a habit tracking app with a set of modules for self development.
+ 1. User should receive 
+Build a REST API of mini version of Now&Me forum with following features:
+
