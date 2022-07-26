@@ -1,6 +1,6 @@
 # backend-developer
 
-##This is a task designed to understand the skillset of the developer joining StimVeda Neurosciences. To be done before the interview
+## This is a task designed to understand the skillset of the developer joining StimVeda Neurosciences. To be done before the interview
 
 The following skillsets are being evaluated - 
 1. Practicality of the architecture 
@@ -10,7 +10,7 @@ The following skillsets are being evaluated -
 5. Speed of execution
 
 
-##Task 
+## Task 
 
 Build a REST API for a habit tracking web interface with a set of modules for self development. 
  1. User should be able to Log in and Sign up usng Google id
@@ -20,7 +20,7 @@ Build a REST API for a habit tracking web interface with a set of modules for se
  
 Tech Stack to use: NodeJS, MongoDB
 
-##How to Submit the task?
+## How to Submit the task?
 
 Email to ramya@stimveda.com with the task repo on github and an intro.
 
