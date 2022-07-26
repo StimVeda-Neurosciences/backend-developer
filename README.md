@@ -3,11 +3,10 @@
 ## This is a task designed to understand the skillset of the developer joining StimVeda Neurosciences. To be done before the interview
 
 The following skillsets are being evaluated - 
-1. Practicality of the architecture 
-2. Code Readability (Modularity, Documentation)
-3. API Design of components/routes
-4. Following best practices in web secuirty like IDOR, Input Validation, using typescript etc.
-5. Speed of execution
+1. Code Readability (Modularity, Documentation)
+2. API Design of components/routes
+3. Following best practices in web secuirty like IDOR, Input Validation, using typescript etc.
+4. Speed of execution
 
 
 ## Task 
