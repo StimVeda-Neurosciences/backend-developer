@@ -23,3 +23,6 @@ Tech Stack to use: NodeJS, MongoDB
 
 Email to ramya@stimveda.com with the task repo on github and an intro.
 
+## Questions?
+
+Please open an issue here on GitHub
